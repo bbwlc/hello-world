@@ -5,4 +5,9 @@ public class HelloWorld {
 
     }
 
+
+    public int getCount() {
+        return count;
+    }
+
 }
